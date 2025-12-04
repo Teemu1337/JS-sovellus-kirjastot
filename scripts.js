@@ -59,7 +59,7 @@ function renderTodos() {
 
     li.append(span, btn);
     list.append(li);
-    
+    // lisäsin animaation
     li.css({ height: 0, opacity: 0, paddingTop: 0, paddingBottom: 0 });
     list.append(li);
     li.animate(
