@@ -2,8 +2,8 @@ jQuery To-Do List / Checklist projekti
 Teemu Hyppönen
 
 Verkkolinkit:
-Julkaistu sovellus: linkki sovellukseen
-Videoesittely: linkki videoon
+Julkaistu sovellus: [linkki sovellukseen](https://teemu1337.github.io/JS-sovellus-kirjastot/)
+Videoesittely: [linkki videoon](https://video.laurea.fi/media/Videoraportti+jQuery+To-Do-List/0_g2ws1dxi)
 
 Oma arvio työstä ja osaamisen kehittymisestä:
   Sillä käytin pohjana entistä to-do list sovellustani, niin pystyin helposti keskittymään oppimaan miten jQueryllä saa toteutettua samat asiat kätevästi.
