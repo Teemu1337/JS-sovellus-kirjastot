@@ -1,13 +1,13 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f0ae71;
+  background-color: #719df0;
   display: flex;
   justify-content: center;
   padding: 40px;
 }
 
 .container {
-  background: rgb(223, 222, 183);
+  background: rgb(183, 200, 223);
   border-radius: 8px;
   padding: 20px;
   width: 100%;
@@ -28,7 +28,7 @@ form {
 input[type="text"] {
   padding: 10px;
   border-radius: 4px;
-  border: 1px solid #c4bb96;
+  border: 1px solid #96c4b1;
   font-size: 1rem;
 }
 
@@ -40,14 +40,14 @@ button {
   padding: 10px;
   border: none;
   border-radius: 4px;
-  background-color: #00ff00;
+  background-color: #0051ff;
   color: white;
   font-size: 1rem;
   cursor: pointer;
 }
 
 button:hover {
-  background-color: #0d7e02;
+  background-color: #1d027e;
 }
 
 ul {
